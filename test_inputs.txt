@@ -1,7 +1,11 @@
-Test Run 1:
-Inputs: Pizza, Blue
-Result: Successfully displayed Alex Johnson's info with 264 months.
+TEST CASE 1: Valid Input
+Input: "Pizza", "Blue"
+Result: Success. All data displayed in the formatted table.
 
-Test Run 2:
-Inputs: [Leave blank], Burger, Green
-Result: Validation loop caught the blank input and asked again.
+TEST CASE 2: Empty Input Validation
+Input: [Enter Key] (No text)
+Result: Success. Program displayed "Please enter a valid food!" and stayed in the loop.
+
+TEST CASE 3: Calculation Check
+Input Age: 22
+Result: Success. Displayed 264 months and 8030 days correctly.
