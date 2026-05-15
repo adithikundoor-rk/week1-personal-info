@@ -1,0 +1,7 @@
+Test Run 1:
+Inputs: Pizza, Blue
+Result: Successfully displayed Alex Johnson's info with 264 months.
+
+Test Run 2:
+Inputs: [Leave blank], Burger, Green
+Result: Validation loop caught the blank input and asked again.
