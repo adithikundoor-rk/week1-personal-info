@@ -17,5 +17,4 @@ A Python application that captures user data, performs age calculations, and dis
 ## ⚙️ Setup Instructions
 1. Install Python 3.x.
 2. Run `python personal_info.py` in your terminal.
-![Program Output]
-(Screenshot%202026-05-16%20030722.png)
+![Program Output](Screenshot 2026-05-16 030722.png)
